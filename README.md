@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScottHendriques
 - 👀 I’m interested in Cybersecurity, Front-end app and web designing and Gaming
-- 🌱 I’m currently completing my Third Year in Bachelors in Computer Application Course
+- 🌱 I’m currently completing my Masters in CyberSecurity.
 - 📫 How to reach me Gmail-hendriquesscott@gmail.com
 - 😄 Pronouns: Male
 - ⚡ Fun fact: ...
