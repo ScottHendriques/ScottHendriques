@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @ScottHendriques
-- 👀 I’m interested in Cybersecurity, Front-end app and web designing and Gaming
-- 🌱 I’m currently completing my Masters in CyberSecurity.
-- 📫 How to reach me Gmail-hendriquesscott@gmail.com
-- 😄 Pronouns: Male
-- ⚡ Fun fact: ...
+# Hi, I'm Scott Hendriques 👋
 
-<!---
-ScottHendriques/ScottHendriques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Active Master of Engineering in Cybersecurity student at the University of Limerick, passionate about security operations, threat detection, and infrastructure reliability. 
+
+- 🛡️ **Focus Areas:** Security Operations (SIEM), Incident Response, IoT Security, Network Defence
+- 🎓 **Education:** MEng in Cybersecurity (University of Limerick) | BCA (S.K Somaiya University)
+- 💼 **Looking For:** Cyber Security Analyst / SOC Analyst roles in Ireland
+
+## 🛠️ Technical Toolkit
+- **Security & Ops:** Splunk SIEM, Snort, Wireshark, OS Hardening, Digital Forensics
+- **Languages & Frameworks:** Python, MySQL, MERN Stack, C, Java
+- **Infrastructure:** Ubuntu, GNS3, Cisco Packet Tracer, VirtualBox, Docker
+
+---
+### 📈 Featured Projects 👇 (Check out my repositories below!)
